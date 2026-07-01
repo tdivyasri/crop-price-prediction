@@ -111,7 +111,7 @@ Crop-Price-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/tdivyasri/Crop-Price-Prediction.git
+git clone https://github.com/tdivyasri/crop-price-prediction
 ```
 
 Install the required libraries:
